@@ -1,0 +1,1 @@
+input('type your hot number')
